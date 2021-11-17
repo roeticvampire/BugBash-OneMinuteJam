@@ -238,3 +238,4 @@ Received Import Request.
 Start importing Assets/Presets using Guid(558255460b74ec04fa70b5570e9327bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1966229f3d7993f283b578bcf544b58') in 0.008143 seconds 
   Import took 0.013224 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
