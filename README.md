@@ -1,7 +1,7 @@
 # Bug Bash : One Minute Jam
  A simple FPS game made as a submission for One Minute Jam.
 
-![Bug Bash](Assets\Sprites\splashhehe.png)
+![Bug Bash](Assets/Sprites/splashhehe.png)
 
 ## How to Play
 The game is downloadable on Windows, and also available as a WebGL application.
